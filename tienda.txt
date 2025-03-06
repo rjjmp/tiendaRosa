@@ -2,3 +2,5 @@
 -Sombreros
 -JOyeria
 -Carteras
+-zapatos
+_perfume
